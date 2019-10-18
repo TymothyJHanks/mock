@@ -4,7 +4,7 @@ As you start looking for jobs, you will find employers like to test what you kno
 
 ## Styleguide
 
-You'll notice we have included a styleguide - [`site-assets/homepage_mock.jpg`](site-assets/homepage_mock.jpg) - for you to reference. This lays out how all the fonts, colors, spacing and style should come together. You can use this as a way to get your head around how the comp should look but **it's not intended to tell you everything**. 
+You'll notice we have included a styleguide - [`site-assets/styleguide.pdf`](site-assets/styleguide.pdf) - for you to reference. This lays out how all the fonts, colors, spacing and style should come together. You can use this as a way to get your head around how the comp should look but **it's not intended to tell you everything**. 
 
 As a front-end dev, part of what you've got to do is take the initial vision for a project and adapt it to the web. You'll get guidance like this but it's ultimately up to you to make those tweaks that help it shine.
 
